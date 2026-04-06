@@ -176,7 +176,7 @@ const Converter = () => {
   );
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-4 sm:p-6">
+    <div className="flex flex-col items-center justify-center min-h-screen p-4 sm:p-6">
       <div className="bg-white shadow-xl rounded-2xl p-6 sm:p-8 max-w-lg w-full">
         <h1 className="text-2xl sm:text-3xl font-bold text-gray-800 text-center mb-6">
           🔢 进制转换计算器
